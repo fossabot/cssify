@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaninavin%2Fcssify.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaninavin%2Fcssify?ref=badge_shield)
+
 cssify
 ======
 
@@ -49,3 +51,7 @@ To run all unit tests locally::
 To run all Selenium tests locally (some env variables are necessary)::
 
   $ nosetests tests/test_cssify_web.py
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaninavin%2Fcssify.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaninavin%2Fcssify?ref=badge_large)
